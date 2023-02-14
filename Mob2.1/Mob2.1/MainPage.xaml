@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Mob2._1.MainPage">
+    <StackLayout>
+        <CollectionView x:Name="colView"
+                    Margin="20"
+                    SelectionMode="Single"
+                    SelectionChanged="colView_SelectionChanged">
+            <CollectionView.ItemsLayout>
+                <LinearItemsLayout Orientation="Vertical" ItemSpacing="10"/>
+            </CollectionView.ItemsLayout>
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <StackLayout>
+                        <Label Text="{Binding Title}"
+                           FontSize="Large"
+                           TextColor="Black"/>
+                        <Label Text="{Binding Description}"
+                           FontSize="Medium"
+                           TextColor="Black"/>
+                        <Label Text="{Binding Date}"
+                           FontSize="Large"
+                           TextColor="Silver"/>
+                    </StackLayout>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+    </StackLayout>
+</ContentPage>

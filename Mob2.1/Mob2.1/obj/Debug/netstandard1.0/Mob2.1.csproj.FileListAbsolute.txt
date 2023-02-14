@@ -1,0 +1,15 @@
+D:\ATHIS.PROJECT\MOBIK\Mob2.1\Mob2.1\Mob2.1\bin\Debug\netstandard1.0\Mob2.1.deps.json
+D:\ATHIS.PROJECT\MOBIK\Mob2.1\Mob2.1\Mob2.1\bin\Debug\netstandard1.0\Mob2.1.dll
+D:\ATHIS.PROJECT\MOBIK\Mob2.1\Mob2.1\Mob2.1\bin\Debug\netstandard1.0\Mob2.1.pdb
+D:\ATHIS.PROJECT\MOBIK\Mob2.1\Mob2.1\Mob2.1\obj\Debug\netstandard1.0\Mob2.1.csproj.AssemblyReference.cache
+D:\ATHIS.PROJECT\MOBIK\Mob2.1\Mob2.1\Mob2.1\obj\Debug\netstandard1.0\Mob2.1.GeneratedMSBuildEditorConfig.editorconfig
+D:\ATHIS.PROJECT\MOBIK\Mob2.1\Mob2.1\Mob2.1\obj\Debug\netstandard1.0\App.xaml.g.cs
+D:\ATHIS.PROJECT\MOBIK\Mob2.1\Mob2.1\Mob2.1\obj\Debug\netstandard1.0\MainPage.xaml.g.cs
+D:\ATHIS.PROJECT\MOBIK\Mob2.1\Mob2.1\Mob2.1\obj\Debug\netstandard1.0\Mob2.1.AssemblyInfoInputs.cache
+D:\ATHIS.PROJECT\MOBIK\Mob2.1\Mob2.1\Mob2.1\obj\Debug\netstandard1.0\Mob2.1.AssemblyInfo.cs
+D:\ATHIS.PROJECT\MOBIK\Mob2.1\Mob2.1\Mob2.1\obj\Debug\netstandard1.0\Mob2.1.csproj.CoreCompileInputs.cache
+D:\ATHIS.PROJECT\MOBIK\Mob2.1\Mob2.1\Mob2.1\obj\Debug\netstandard1.0\XamlC.stamp
+D:\ATHIS.PROJECT\MOBIK\Mob2.1\Mob2.1\Mob2.1\obj\Debug\netstandard1.0\Mob2.1.dll
+D:\ATHIS.PROJECT\MOBIK\Mob2.1\Mob2.1\Mob2.1\obj\Debug\netstandard1.0\refint\Mob2.1.dll
+D:\ATHIS.PROJECT\MOBIK\Mob2.1\Mob2.1\Mob2.1\obj\Debug\netstandard1.0\Mob2.1.pdb
+D:\ATHIS.PROJECT\MOBIK\Mob2.1\Mob2.1\Mob2.1\obj\Debug\netstandard1.0\ref\Mob2.1.dll
